@@ -2,6 +2,9 @@
 
 ## Contents
 
+### 数组操作
+- [1-两数之和](https://github.com/JustinLiutao/algorithm/blob/main/array/two_sum/two_sum.go)
+
 ### 链表操作
 - [21-合并两个有序链表](https://github.com/JustinLiutao/algorithm/blob/main/linkedlist/merge_sorted_list/merge_sorted_list.go)
 
