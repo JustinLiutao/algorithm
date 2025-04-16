@@ -1,0 +1,38 @@
+# Go 编译生成的二进制文件
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go 测试二进制文件
+*.test
+
+# Go 覆盖率文件
+*.out
+coverage.html
+
+# IDE 相关文件
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Go 工作区文件
+go.work
+
+# Go sum 文件
+go.sum
+
+# 调试文件
+__debug_bin
+debug
+
+# 测试生成的临时文件
+*.test
+*.prof
+*.mem
+
+# 项目特定的二进制文件
+algorithm
